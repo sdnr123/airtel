@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KKKKKKKKKK KK DevOps 08.09.2025</h1>
+<h1 align="center">Welcome to  KK DevOps 08.09.2025</h1>
 <h1 align="center"> KK FUNDA devops</h1>
 <hr>
 <br>
